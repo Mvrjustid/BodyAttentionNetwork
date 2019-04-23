@@ -12,6 +12,7 @@ To do this, please read the paper:
 'Learning Bodily and Temporal Attention in Protective Movement Behaviour Detection.' (2019).
 
 Then you can
+
 i)  change the number of body parts/sensors to your need;
 
 ii) tune the hyperparameter;
