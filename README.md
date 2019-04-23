@@ -13,7 +13,9 @@ To do this, please read the paper:
 
 Then you can
 i)  change the number of body parts/sensors to your need;
+
 ii) tune the hyperparameter;
+
 iii)use the AttentionScoreExtract.py + TemporalAttenHeatMap.py to analyze your result.
 
 
@@ -36,7 +38,7 @@ Within each code, directions are also provided.
 Find it useful for your project?
 Please do remember to cite the papers:
 
-"Learning Bodily and Temporal Attention in Protective Movement Behaviour Detection." (2019).
+"Learning Bodily and Temporal Attention in Protective Movement Behaviour Detection." (2019). 
 
-"Automatic Detection of Protective Behavior in Chronic Pain Physical Rehabilitation: A Recurrent Neural Network Approach." arXiv preprint arXiv:1902.08990 (2019).
+"Automatic Detection of Protective Behavior in Chronic Pain Physical Rehabilitation: A Recurrent Neural Network Approach." arXiv preprint arXiv:1902.08990 (2019). https://arxiv.org/abs/1902.08990
 
