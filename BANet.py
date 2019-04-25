@@ -289,12 +289,12 @@ if __name__ == '__main__':
             EarlyStoppingByValAcc(monitor='val_binary_accuracy', value=1.00000, verbose=1),
             checkpointer
                     ]
-
+        ada = keras.optimizers.Adam(lr=0.003)
         model = build_model()
         model.compile(loss=keras.losses.binary_crossentropy,
                       optimizer=ada,
                       metrics=['binary_accuracy'])
-        ada = keras.optimizers.Adam(lr=0.003)
+        
         H = model.fit(X_train0, y_train,
                       batch_size=40,
                       epochs=80,
@@ -303,6 +303,7 @@ if __name__ == '__main__':
                       validation_data=(X_valid0, y_valid))
 
         print('---This is result for %s th subject---' % person)
+        
         model.load_weights('PATH+FileName' + person + '.hdf5')
         from sklearn.metrics import confusion_matrix
         from sklearn.metrics import f1_score
