@@ -1,6 +1,7 @@
-# BodyAttentionNetwork, ACIIW 2019
+# BodyAttentionNetwork (BANet), ACIIW 2019
 This is for the paper 'Learning Bodily and Temporal Attention in Protective Movement Behavior Detection', presented at ACIIW'19.
 
+![alt text](Banet.png "The overview of BANet")
 
 # Preparation
 If you want to run the network on EmoPain dataset (http://www.emo-pain.ac.uk/), you need to extract the angle and energy data from it.
@@ -9,7 +10,7 @@ If you want to run the network on your dataset, please make sure you understand 
 
 To use the model, the best way is to read the paper: 
 
-'Learning Bodily and Temporal Attention in Protective Movement Behavior Detection.' arxiv preprint arXiv:1904.10824. (https://arxiv.org/abs/1904.10824)
+Wang, Chongyang, Min Peng, Temitayo A. Olugbade, Nicholas D. Lane, Amanda C. De C. Williams, and Nadia Bianchi-Berthouze. "[Learning temporal and bodily attention in protective movement behavior detection](https://ieeexplore.ieee.org/abstract/document/8925084/)", In 2019 8th International Conference on Affective Computing and Intelligent Interaction Workshops and Demos (ACIIW), pp. 324-330. IEEE, 2019.
 
 Then you can
 
