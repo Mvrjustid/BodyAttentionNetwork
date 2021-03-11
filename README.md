@@ -1,5 +1,5 @@
-# BodyAttentionNetwork, Submitted to ACII 2019
-This is for the paper 'Learning Bodily and Temporal Attention in Protective Movement Behavior Detection'
+# BodyAttentionNetwork, ACIIW 2019
+This is for the paper 'Learning Bodily and Temporal Attention in Protective Movement Behavior Detection', presented at ACIIW'19.
 
 
 # Preparation
@@ -38,9 +38,9 @@ Within each code, instructions are also provided.
 
 # Citation
 Find it useful for your project?
-Please do remember to cite the papers:
+Please also kindly refer to the following papers:
 
-"Learning Bodily and Temporal Attention in Protective Movement Behavior Detection." arXiv preprint arXiv:1904.10824 (2019). https://arxiv.org/abs/1904.10824
+Wang, Chongyang, Min Peng, Temitayo A. Olugbade, Nicholas D. Lane, Amanda C. De C. Williams, and Nadia Bianchi-Berthouze. "[Learning temporal and bodily attention in protective movement behavior detection](https://ieeexplore.ieee.org/abstract/document/8925084/)", In 2019 8th International Conference on Affective Computing and Intelligent Interaction Workshops and Demos (ACIIW), pp. 324-330. IEEE, 2019.
 
-"Automatic Detection of Protective Behavior in Chronic Pain Physical Rehabilitation: A Recurrent Neural Network Approach." arXiv preprint arXiv:1902.08990 (2019). https://arxiv.org/abs/1902.08990
+Wang, Chongyang, Temitayo A. Olugbade, Akhil Mathur, Amanda C. De C. Williams, Nicholas D. Lane, and Nadia Bianchi-Berthouze. "[Recurrent network based automatic detection of chronic pain protective behavior using mocap and semg data](https://dl.acm.org/doi/abs/10.1145/3341163.3347728)", In Proceedings of the 23rd international symposium on wearable computers (ISWC), pp. 225-230. 2019.
 
