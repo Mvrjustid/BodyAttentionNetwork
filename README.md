@@ -1,4 +1,9 @@
 # BodyAttentionNetwork (BANet), ACIIW 2019
+[![GitHub stars](https://img.shields.io/github/stars/Mvrjustid/BodyAttentionNetwork)](https://github.com/Mvrjustid/BodyAttentionNetwork)
+[![GitHub folks](https://img.shields.io/github/forks/Mvrjustid/BodyAttentionNetwork)](https://github.com/Mvrjustid/BodyAttentionNetwork)
+[![GitHub](https://img.shields.io/github/license/Mvrjustid/BodyAttentionNetwork)](https://github.com/Mvrjustid/BodyAttentionNetwork)
+[![GitHub issues](https://img.shields.io/github/issues/Mvrjustid/BodyAttentionNetwork)](https://github.com/Mvrjustid/BodyAttentionNetwork/issues)
+
 This is for the paper 'Learning Bodily and Temporal Attention in Protective Movement Behavior Detection', presented at ACIIW'19.
 
 ![alt text](Banet.png "The overview of BANet")
