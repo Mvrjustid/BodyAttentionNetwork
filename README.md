@@ -48,5 +48,21 @@ Please also kindly refer to the following papers:
 
 Wang, Chongyang, Min Peng, Temitayo A. Olugbade, Nicholas D. Lane, Amanda C. De C. Williams, and Nadia Bianchi-Berthouze. "[Learning temporal and bodily attention in protective movement behavior detection](https://ieeexplore.ieee.org/abstract/document/8925084/)", In 2019 8th International Conference on Affective Computing and Intelligent Interaction Workshops and Demos (ACIIW), pp. 324-330. IEEE, 2019.
 
+@inproceedings{wang2019learning,
+  title={Learning temporal and bodily attention in protective movement behavior detection},
+  author={Wang, Chongyang and Peng, Min and Olugbade, Temitayo A and Lane, Nicholas D and Williams, Amanda C De C and Bianchi-Berthouze, Nadia},
+  booktitle={2019 8th International Conference on Affective Computing and Intelligent Interaction Workshops and Demos (ACIIW)},
+  pages={324--330},
+  year={2019},
+  organization={IEEE}
+}
+
 Wang, Chongyang, Temitayo A. Olugbade, Akhil Mathur, Amanda C. De C. Williams, Nicholas D. Lane, and Nadia Bianchi-Berthouze. "[Recurrent network based automatic detection of chronic pain protective behavior using mocap and semg data](https://dl.acm.org/doi/abs/10.1145/3341163.3347728)", In Proceedings of the 23rd international symposium on wearable computers (ISWC), pp. 225-230. 2019.
 
+@inproceedings{wang2019recurrent,
+  title={Recurrent network based automatic detection of chronic pain protective behavior using mocap and semg data},
+  author={Wang, Chongyang and Olugbade, Temitayo A and Mathur, Akhil and De C. Williams, Amanda C and Lane, Nicholas D and Bianchi-Berthouze, Nadia},
+  booktitle={Proceedings of the 23rd international symposium on wearable computers},
+  pages={225--230},
+  year={2019}
+}
