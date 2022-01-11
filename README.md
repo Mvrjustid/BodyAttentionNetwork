@@ -27,22 +27,18 @@ ii) tune the hyperparameter;
 
 iii)use the AttentionScoreExtract.py + TemporalAttenHeatMap.py to analyze your result.
 
-
 # Code Description
-BANet.py is the proposed one with two attention mechanisms, namely bodily-attention and temporal-attention.
+- BANet.py is the proposed one with two attention mechanisms, namely bodily-attention and temporal-attention.
 
-BANet-body.py is the variant of BANet only with bodily-attention.
+- BANet-body.py is the variant of BANet only with bodily-attention.
 
-BANet-time.py is the variant of BANet only with temporal-attention.
+- BANet-time.py is the variant of BANet only with temporal-attention.
 
-AttentionScoreExtract.py is used to load the model and obtain the output from specified layers.
+- AttentionScoreExtract.py is used to load the model and obtain the output from specified layers.
 
-TemporalAttenHeatMap.py is to create the heat map for your obtained temporal attention scores.
-
+- TemporalAttenHeatMap.py is to create the heat map for your obtained temporal attention scores.
 
 Within each code, instructions are also provided.
-
-
 
 # Citation
 Find it useful for your project?
